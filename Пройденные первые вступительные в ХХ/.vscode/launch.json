@@ -1,0 +1,91 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Task1.Main",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main5",
+            "request": "launch",
+            "mainClass": "Task2.Main5",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Task2.Test",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Task2.Main3",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Tresh.Main",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Task2.Main2",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Task2.Main",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EsheMain",
+            "request": "launch",
+            "mainClass": "EsheMain",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "OldMain",
+            "request": "launch",
+            "mainClass": "OldMain",
+            "projectName": "HHProject_e6c02b18"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "HHProject_e6c02b18"
+        }
+    ]
+}
